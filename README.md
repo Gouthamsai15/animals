@@ -1,4 +1,4 @@
-# New Feature Animals
+# NEW FEATURE BRANCH
 
 ## Animals List
 
