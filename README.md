@@ -1,0 +1,7 @@
+# Animals Repository
+
+## Animals List
+
+- [Cat](cat.md)
+- [Dog](dog.md)
+- [Lion](lion.md)
