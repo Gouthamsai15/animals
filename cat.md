@@ -1,5 +1,5 @@
 # Cat
 
-![Cat](https://upload.wikimedia.org/wikipedia/commons/b/b6/Felis_catus-cat_on_snow.jpg)
+![Cat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
 
-Cats are small domesticated carnivorous mammals known for their agility and companionship.
+Cats are small domesticated mammals known for their agility, curiosity, independence, and playful nature.
